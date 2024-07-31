@@ -6,10 +6,8 @@ This README provides a detailed overview of the AshProj, a simple Unix shell des
 
 1. [Project Overview](#project-overview)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Built-in Commands](#built-in-commands)
-6. [Testing](#testing)
+3. [Built-in Commands](#built-in-commands)
+4. [Testing](#testing)
 
 ## Project Overview
 
