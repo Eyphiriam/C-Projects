@@ -1,4 +1,4 @@
-The provided C code snippet is a basic implementation of a custom Unix shell, referred to as "Aggie Shell." This shell allows users to interact with the operating system via a command-line interface, executing built-in commands such as `exit`, `cd` (change directory), and `path` (to get or set the system path). Below is a detailed explanation of the code, which can be used to enhance the README file for clarity and completeness.
+This shell allows users to interact with the operating system via a command-line interface, executing built-in commands such as `exit`, `cd` (change directory), and `path` (to get or set the system path). Below is a detailed explanation of the code, which can be used to enhance the README file for clarity and completeness.
 
 ### Overview of the Aggie Shell Code
 
